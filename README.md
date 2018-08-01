@@ -24,5 +24,5 @@ sudo ./linux_init.sh
 
 3- Source the docker binary path:
 ```
-./linux_paths.sh
+source linux_paths.sh
 ```
