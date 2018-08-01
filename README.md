@@ -6,7 +6,9 @@ These steps will help you to install docker binareis in transient way.
 Once you close the terminal, the docker commands will not be avaliable.
 
 # Pre-Installation:
+```
 Please shutdown the Docker service in case you have alreay installed it. 
+```
 
 # Installation:
 1- Clone the repository:
