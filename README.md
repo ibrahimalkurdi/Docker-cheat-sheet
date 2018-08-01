@@ -1,8 +1,9 @@
 # Docker_workshop
 I made this repository for k24 workshop which is an introduction for Docker
 
+# Portable Docker:
 These steps will help you to install docker binareis as transient. 
-Once you close the terminal, the docker command will not be avaliable.
+Once you close the terminal, the docker commands will not be avaliable.
 
 # Pre-Installation:
 Please shutdown the Docker service in case you have alreay installed it. 
