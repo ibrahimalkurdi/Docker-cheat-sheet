@@ -2,7 +2,7 @@
 I made this repository for k24 workshop which is an introduction for Docker
 
 # Portable Docker:
-These steps will help you to install docker binareis as transient. 
+These steps will help you to install docker binareis in transient way. 
 Once you close the terminal, the docker commands will not be avaliable.
 
 # Pre-Installation:
