@@ -10,6 +10,8 @@ cd DockerCompose
 * Created needed diretories:
 ```
 sudo mkdir -p /data/www /data/mysql
+sudo chown 33:33 /data/www
+sudo chown 999:999 /data/mysql
 ```
 
 ## Docker-compose commands:
