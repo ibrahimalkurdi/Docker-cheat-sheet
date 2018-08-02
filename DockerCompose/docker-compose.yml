@@ -16,3 +16,5 @@ services:
       - "8080:80"
     environment:
             - WORDPRESS_DB_PASSWORD=password
+    volumes:
+      - "/data/www:/var/www/html"
