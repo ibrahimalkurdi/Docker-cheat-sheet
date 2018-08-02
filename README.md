@@ -43,3 +43,9 @@ https://docs.docker.com/v17.09/compose/install/
 If you don't want to install docker in your machine, 
 you can access the link below and create server which has docker installation 
 https://labs.play-with-docker.com/
+
+## Test your docker installation:
+Run this command:
+```
+docker run hello-world
+```
