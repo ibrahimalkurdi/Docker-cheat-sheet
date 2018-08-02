@@ -19,7 +19,7 @@ sudo chown 999:999 /data/mysql
 docker-compose up                     # initialize and start up containers
 docker-compose up -d -f <file>        # start containers in background
 docker-compose up -d --build          # force rebuild of Dockerfiles
-docker-compose up -d --force-recreate # Delete and create containrs.
+docker-compose up -d --force-recreate # Delete and create containers.
 docker compose stop                   # stop containers
 docker-compose start                  # start stopped containers
 docker compose down                   # remove containers
