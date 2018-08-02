@@ -10,7 +10,7 @@ cd DockerCompose
 
 ## Docker-compose commands:
 ```
-docker compose up                  # initialize and start up containers
+docker-compose up                  # initialize and start up containers
 docker-compose up -d               # start containers in background
 docker-compose up -d --build       # force rebuild of Dockerfiles
 docker compose stop                # stop containers
