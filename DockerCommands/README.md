@@ -1,5 +1,4 @@
 # Docker Commands:
-------------------
 We will walk through the basic docker commands and will try to give an example for each of them.
 
 ## Docker RUN:  
