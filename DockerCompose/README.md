@@ -3,6 +3,10 @@ We will walk through this page with the basic docker-compose commands
 
 ## Prerequisite:
 Please go back to the installation page in case you haven't install docker-compose yet.
+Change your current directory to the docker-compose configuration.
+```
+cd DockerCompose
+```
 
 ## Docker-compose commands:
 ```
