@@ -96,7 +96,7 @@ docker run ubuntu:18.04
 ```
 
 ## Docker PORT mapping:
-To expose the container to host, we have to bind the local docker port to host post.
+To expose the container to host, we have to bind the local docker port to host port.
 ```
 docker run -d --name my_nginx nginx
 docker run -d --name my_nginx_1 -p 8090:80 nginx
