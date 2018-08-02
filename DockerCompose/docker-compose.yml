@@ -10,6 +10,7 @@ services:
   web:
     image: "wordpress"
     container_name: my-compose-app
+    depends_on: mysql
     ports:
       - "8080:80"
     environment:
