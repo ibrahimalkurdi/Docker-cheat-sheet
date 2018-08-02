@@ -22,6 +22,6 @@ docker-compose up -d --build       # force rebuild of Dockerfiles
 docker compose stop                # stop containers
 docker-compose start               # start stopped containers
 docker compose down                # remove containers
-dokcer-compose start <service>     # Start specifc stopped service container/s
 dokcer-compose up -d <service>     # Start specifc service container/s
+dokcer-compose start <service>     # Start specifc stopped service container/s
 ```
