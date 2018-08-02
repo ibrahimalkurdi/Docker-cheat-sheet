@@ -39,7 +39,7 @@ docker tag my_first_image dockerworkshop101k24/my_first_image_1:v.01
 
 ## Docker PUSH:
 ```
-docker login my.registry.com:8000 # For your private repository
-docker login # will connect by default to Dockerhub. Username:<dockerworkshop101k24>
+docker login my.registry.com:8000      # For your private repository
+docker login                           # will connect by default to Dockerhub. Username:<dockerworkshop101k24>
 docker push dockerworkshop101k24/my_second_image:v.01
 ```
