@@ -90,7 +90,7 @@ docker exec <CONTAINER ID/NAMES> cat /etc/*release*
 
 ## Docker TAG:
 
-* Run docker command with a specified image version:
+* `docker run` command with a specified image version:
 ```
 docker run ubuntu:18.04
 ```
