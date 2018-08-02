@@ -27,9 +27,6 @@ sudo ./linux_init.sh
 source linux_paths.sh
 ```
 ## Docker installation:
-* Portabl docker of Linux OS:
-https://github.com/ibrahimalkurdi/Docker_workshop
-
 * Linux Docker installation:
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
@@ -39,8 +36,10 @@ https://docs.docker.com/docker-for-mac/install/
 * Windows Docker installation:
 https://docs.docker.com/docker-for-windows/install/
 
-* Install Docker compose:
+* Docker compose installation:
 https://docs.docker.com/v17.09/compose/install/
 
 * Play with docker:
+If you don't want to install docker in your machine, 
+you can access the link below and create server which has docker installation 
 https://labs.play-with-docker.com/
