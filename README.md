@@ -1,5 +1,5 @@
 # Docker 101 workshop
-I made this repository for k24 workshop which is an introduction for Docker
+I made this repository for k24 workshop which is Docker introduction.
 
 ## Portable Docker for Linux OS:
 These steps will help you to install docker binareis in transient way. 
