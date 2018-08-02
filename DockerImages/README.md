@@ -31,7 +31,7 @@ docker images | grep 'my_'
 ```
 
 ## Docker Build cached layers:
-Update the Dockerfile_alpine and rebuild with a new tag/image:
+Update the Dockerfile and rebuild with a new tag/image:
 ```
 docker tag my_first_image dockerworkshop101k24/my_first_image:v.02
 docker tag my_first_image dockerworkshop101k24/my_first_image_1:v.01
