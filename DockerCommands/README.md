@@ -67,7 +67,7 @@ docker run -d ubuntu sleep 100
 docker attache <REPOSITORY/IMAGE ID>
 ```
 
-* Provide name for your container:
+* Provide a name for your container:
 ```
 docker run -d --name my_ubuntu_container ubuntu sleep 100 
 ```
