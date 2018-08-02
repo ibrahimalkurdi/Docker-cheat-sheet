@@ -5,12 +5,12 @@ I made this repository for k24 workshop which is an introduction for Docker
 These steps will help you to install docker binareis in transient way. 
 Once you close the terminal, the docker commands will not be avaliable.
 
-# Pre-Installation:
+## Pre-Installation:
 ```
 Please shutdown the Docker service in case you have alreay installed it. 
 ```
 
-# Installation:
+## Installation:
 1- Clone the repository:
 ```
 git clone https://github.com/ibrahimalkurdi/Docker_workshop.git
@@ -26,3 +26,21 @@ sudo ./linux_init.sh
 ```
 source linux_paths.sh
 ```
+# Docker installation:
+* Portabl docker of Linux OS:
+https://github.com/ibrahimalkurdi/Docker_workshop
+
+* Linux Docker installation:
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
+
+* MAC Docker installation:
+https://docs.docker.com/docker-for-mac/install/
+
+* Windows Docker installation:
+https://docs.docker.com/docker-for-windows/install/
+
+* Install Docker compose:
+https://docs.docker.com/v17.09/compose/install/
+
+* Play with docker:
+https://labs.play-with-docker.com/
