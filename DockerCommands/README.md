@@ -78,7 +78,7 @@ docker run -d --name my_ubuntu_container ubuntu sleep 100
 -i, --interactive                    Keep STDIN open even if not attached
 -t, --tty                            Allocate a pseudo-TTY
 ```
-````
+```
 docker run -it ubuntu bash
 docker run -it <CONTAINER ID/NAMES> bash
 docker run --rm -it ubuntu bash
