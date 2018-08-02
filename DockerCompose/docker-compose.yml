@@ -1,0 +1,16 @@
+version: '3'
+services:
+  mysql:
+    image: "mysql"
+    container_name: my-compose-db
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+    volumes:
+      - "/data/mysql:/var/lib/mysql"
+  web:
+    image: "wordpress"
+    container_name: my-compose-app
+    ports:
+      - "8080:80"
+    environment:
+            - WORDPRESS_DB_PASSWORD=password
