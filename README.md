@@ -1,16 +1,16 @@
 # Docker 101 workshop
 I made this repository for k24 workshop which is an introduction for Docker
 
-# Portable Docker for Linux OS:
+## Portable Docker for Linux OS:
 These steps will help you to install docker binareis in transient way. 
 Once you close the terminal, the docker commands will not be avaliable.
 
-## Pre-Installation:
+### Pre-Installation:
 ```
 Please shutdown the Docker service in case you have alreay installed it. 
 ```
 
-## Installation:
+### Installation:
 1- Clone the repository:
 ```
 git clone https://github.com/ibrahimalkurdi/Docker_workshop.git
@@ -26,7 +26,7 @@ sudo ./linux_init.sh
 ```
 source linux_paths.sh
 ```
-# Docker installation:
+## Docker installation:
 * Portabl docker of Linux OS:
 https://github.com/ibrahimalkurdi/Docker_workshop
 
