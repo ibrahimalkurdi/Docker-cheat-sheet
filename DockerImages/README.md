@@ -2,7 +2,7 @@
 This page will help you to customize your own image and push it to Dockerhub.
 
 ## Prerequisite:
-* Be sure you are on the DockerImages directory:
+* After cloning the repository, Be sure you are on the DockerImages directory:
 ```
 cd DockerImages
 ```
