@@ -36,7 +36,7 @@ docker tag my_first_image dockerworkshop101k24/my_first_image:v.02
 docker tag my_first_image dockerworkshop101k24/my_first_image_1:v.01
 ```
 
-# Docker PUSH:
+## Docker PUSH:
 ```
 docker login my.registry.com:8000
 docker login <dockerworkshop101k24>
