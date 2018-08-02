@@ -1,0 +1,5 @@
+FROM alpine
+RUN apk add --no-cache python py-pip
+RUN pip install --upgrade pip
+RUN touch /tmp/file3
+ENTRYPOINT FLASK_APP=/opt/app.py flask run --host=0.0.0.0
