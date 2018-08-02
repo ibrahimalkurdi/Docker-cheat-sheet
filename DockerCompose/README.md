@@ -1,10 +1,10 @@
 # Docker-compose:
 We will walk through this page with the basic docker-compose commands
 
-# Prerequisite:
+## Prerequisite:
 Please go back to the installation page in case you haven't install docker-compose yet.
 
-# Docker-compose commands:
+## Docker-compose commands:
 ```
 docker compose up                  # initialize and start up containers
 docker-compose up -d               # start containers in background
