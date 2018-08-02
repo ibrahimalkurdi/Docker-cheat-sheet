@@ -54,8 +54,8 @@ docker pull ubuntu
 docker rmi <REPOSITORY/IMAGE ID>
 ```
 
-* Docker run will not do anything with basic images such as 
-Ubuntu image due this image doesn't have any command to execute:
+* `docker run` will do anything with basic images such as 
+`ubuntu` due this image doesn't have any command to execute:
 ```
 docker run ubuntu
 docker run ubuntu sleep 30
