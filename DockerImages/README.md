@@ -27,6 +27,7 @@ docker tag my_first_image dockerworkshop101k24/my_first_image:v.01
 ```
 docker build . -f Dockerfile_alpine -t my_second_image:v.01
 docker history --no-trunc my_alpine:latest
+docker images | grep 'my_'
 ```
 
 ## Docker Build cached layers:
