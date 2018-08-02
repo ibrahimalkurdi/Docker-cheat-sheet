@@ -7,7 +7,7 @@ We will walk through this page with the basic docker-compose commands
 ```
 cd DockerCompose
 ```
-* Created needed diretories:
+* Created the needed diretories for permenent data (web-app + db):
 ```
 sudo mkdir -p /data/www /data/mysql
 sudo chown 33:33 /data/www
